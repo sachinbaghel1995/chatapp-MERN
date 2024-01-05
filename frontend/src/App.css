@@ -1,0 +1,10 @@
+.App{
+  min-height: 100vh;
+  display: flex;
+  background-image: url("https://img.freepik.com/free-vector/dialogue-chat-clouds-speech-bubble-icon-from-lines-triangles-particle-style-design-low-poly-technology-devices-people-communication-concept-blue-background_587448-472.jpg?w=900&t=st=1703822281~exp=1703822881~hmac=b79fac1bfc4242186799c6097574ecbbaf44c2b523c431b73ebb4cbc4d41e175");
+  background-size: cover;
+  background-position: center;
+  color: black;
+
+
+}
